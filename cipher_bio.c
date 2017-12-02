@@ -12,6 +12,7 @@ int main()
 	const EVP_CIPHER *c=EVP_des_ecb();
 	int len,i;
 	char tmp[1024];
+	//key 为对称密钥,iv 为初始化向量
 	unsigned char key[8],iv[8];
 	for(i=0;i<8;i++)
 	{
