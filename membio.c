@@ -13,6 +13,7 @@ int main() {
 	len=BIO_write(b,"openssl",4);
 	len=BIO_printf(b,"%s","zcp");
 	len=BIO_ctrl_pending(b);
+	printf("len:%d\n", len);
 	out=(char *)OPENSSL_malloc(len);
 	len=BIO_read(b,out,len);
 	printf("out:%s\n", out);
