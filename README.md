@@ -9,3 +9,5 @@ openssl版本:OpenSSL 1.1.1-dev  xx XXX xxxx
 	dso.c	测试openssl的动态库加载功能，DSO,测试用例有问题
 	membio.c openssl的抽象IO测试，内存IO。
 	fileBio.c openssl file BIO
+	sock_bio_ser.c	socket BIO server
+	sock_bio_cli.c	socket BIO client
