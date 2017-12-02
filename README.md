@@ -14,3 +14,4 @@ openssl版本:OpenSSL 1.1.1-dev  xx XXX xxxx
 	mdbio.c	 md、NULL BIO 测试学习
 	cipher_bio.c 加/解密 BIO
 	ssl_bio.c  ssl BIO
+	fileBio2.c 文件BIO
