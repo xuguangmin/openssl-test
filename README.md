@@ -11,3 +11,4 @@ openssl版本:OpenSSL 1.1.1-dev  xx XXX xxxx
 	fileBio.c openssl file BIO
 	sock_bio_ser.c	socket BIO server
 	sock_bio_cli.c	socket BIO client
+	mdbio.c	 md、NULL BIO 测试学习
