@@ -15,3 +15,5 @@ openssl版本:OpenSSL 1.1.1-dev  xx XXX xxxx
 	cipher_bio.c 加/解密 BIO
 	ssl_bio.c  ssl BIO
 	fileBio2.c 文件BIO
+	conf1.c	 openssl配置文件加载测试
+	conf_test.txt 配置文件，测试文件
