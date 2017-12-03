@@ -20,3 +20,4 @@ openssl版本:OpenSSL 1.1.1-dev  xx XXX xxxx
 	conf_session.c  给定配置段信息，从堆栈获取所有值
 	rand.c 	随机数,额...
 	txtdb.c  文本数据库
+	bn文件夹   openssl的大数
