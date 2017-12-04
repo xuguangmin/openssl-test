@@ -24,3 +24,4 @@ openssl版本:OpenSSL 1.1.1-dev  xx XXX xxxx
 	base64_encode.c  base64编解码
 	base64_encode2.c base64编解码
 	err.c   错误处理
+	digest.c 摘要接口测试学习
