@@ -1,4 +1,4 @@
-
+/* MD2、MD4、MD5、SHA 和 SHA1 函数的使用方法 */
 #include <stdio.h>
 #include <string.h>
 #include <openssl/md2.h>
