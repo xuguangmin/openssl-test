@@ -27,3 +27,4 @@ openssl版本:OpenSSL 1.1.1-dev  xx XXX xxxx
 	digest.c 摘要接口测试学习
 	hmac.c	 HMAC
 	comp.c   解压缩算法，待测
+	gen_key.c 密钥生成
