@@ -28,3 +28,6 @@ openssl版本:OpenSSL 1.1.1-dev  xx XXX xxxx
 	hmac.c	 HMAC
 	comp.c   解压缩算法，待测
 	gen_key.c 密钥生成
+	encrypt_dencrypt.c
+	rsa.key
+
