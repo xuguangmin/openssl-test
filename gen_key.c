@@ -14,7 +14,10 @@ int main()
 	bne=BN_new();
 	ret=BN_set_word(bne,e);
 	r=RSA_new();
+
+	printf("rea_generate_key_ex:\n");
 	ret=RSA_generate_key_ex(r,bits,bne,NULL);
+	RSA_print_fp(stdout,r,11);
 	if(ret!=1)
 	{
 		printf("RSA_generate_key_ex err!\n");
