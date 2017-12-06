@@ -30,6 +30,6 @@ openssl版本:OpenSSL 1.1.1-dev  xx XXX xxxx
 	gen_key.c 密钥生成
 	encrypt_dencrypt.c
 	rsa.key
-	sign_verify.c  rsa签名
-	DSA密钥生成
-
+	sign_verify.c   rsa签名
+	dsaGenKey.c	DSA密钥生成
+	dsa_sign_verify.c  DSA签名验签
