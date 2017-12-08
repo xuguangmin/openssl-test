@@ -34,4 +34,4 @@ openssl版本:OpenSSL 1.1.1-dev  xx XXX xxxx
 	dsaGenKey.c	DSA密钥生成
 	dsa_sign_verify.c  DSA签名验签
 	a2d_asn1_object.c  计算DER编码
-
+	a2i_asn1_integer.c ASN1_INTEGER
