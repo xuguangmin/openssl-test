@@ -36,4 +36,4 @@ openssl版本:OpenSSL 1.1.1-dev  xx XXX xxxx
 	a2d_asn1_object.c  计算DER编码
 	a2i_asn1_integer.c ASN1_INTEGER
 	a2i_asn1_string.c  将ascii转换为ASN1_STRING
-
+	openssl_asc2uni.c  ASCII 2 UNICODE
