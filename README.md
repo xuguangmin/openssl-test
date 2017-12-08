@@ -33,3 +33,5 @@ openssl版本:OpenSSL 1.1.1-dev  xx XXX xxxx
 	sign_verify.c   rsa签名
 	dsaGenKey.c	DSA密钥生成
 	dsa_sign_verify.c  DSA签名验签
+	a2d_asn1_object.c  计算DER编码
+
